@@ -68,7 +68,7 @@ The core of this project involved answering 10 specific business requests. The f
 
 | File/Folder | Description |
 | :--- | :--- |
-| [`Ad-Hoc-Insights_by_Sourav_paul.pdf`](https://github.com/PaulSourav10/atliq_hardware_ad_hoc_insights/blob/main/Ad-Hoc-Insights_by_Sourav_paul.pdf) | Complete presentation slide deck with all queries, results, and strategic insights |
+| [`Ad-Hoc-Insights_by_Sourav_paul.pdf`](https://www.linkedin.com/posts/souravpaulofficial_adhocinsightsbysouravpaul-activity-7381910253057216512-XD73?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD419AB1gjnmG2uZwOreWSMXtUJmldOm9o) | Complete presentation slide deck with all queries, results, and strategic insights |
 | [`Solution_file_CB_Resume_challange_7_By_Sourav_Paul.sql`](https://github.com/PaulSourav10/atliq_hardware_ad_hoc_insights/blob/main/Solution_file_CB_Resume_challange_7_By_Sourav_Paul.sql) | SQL scripts used to answer all 10 ad hoc business requests |
 | `README.md` | This document, providing an overview and key findings |
 
